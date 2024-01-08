@@ -18,7 +18,7 @@ class DashboardHeaderWidget extends StatelessWidget {
         )
       ]),
       padding:
-          EdgeInsets.only(left: 26.w, right: 26.w, top: 36.h, bottom: 12.h),
+          EdgeInsets.only(left: 26.w, right: 26.w, top: 50.h, bottom: 12.h),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
